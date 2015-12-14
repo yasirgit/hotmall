@@ -1,0 +1,15 @@
+/* 
+
+#tabs li.tab a img,
+#tabs li.tab a span {
+	display: block;
+	text-align: center;
+}
+
+#tabs li.tab a {
+	width: 48px;
+}
+*/
+#dashboard-buttons li a.form {
+	background-image: url('../images/icons/thumb.php?src=form.png&amp;w=48&amp;q=30&amp;a=tc');
+}

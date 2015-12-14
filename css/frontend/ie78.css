@@ -1,0 +1,91 @@
+
+article, 
+aside, 
+details, 
+figcaption, 
+figure, 
+footer, 
+header, 
+hgroup, 
+nav, 
+section { 
+	display: block;
+}
+
+audio, 
+canvas, 
+video { 
+	display: inline-block; 
+	*display: inline; 
+	*zoom: 1; 
+}
+
+audio:not([controls]) { 
+	display: none; 
+}
+
+[hidden] { 
+	display: none; 
+}
+
+a img {
+	border: none;
+}
+
+#wrapper {
+	width: 960px;
+}
+
+.featured-business,
+.featured-business img {
+	float: left !important;
+}
+
+.footer-menu {
+	padding-top: 36px;
+	display: block;
+	clear: both;
+}
+
+footer {
+	margin: 36px auto !important;
+}
+
+.search-locations {
+	background-image: url(../images/bg-search-box.gif) !important;
+	background-repeat: repeat-x;
+	clear: both;
+}
+
+nav {
+	width: 96%;
+	clear: both;
+}
+
+nav ul li,
+nav ul li a {
+	display: block;
+}
+
+header h1 {
+	height: 51px;
+}
+
+header h1 a img {
+	float: right;
+	margin-top: -48px;
+	margin-right: 24px;
+}
+
+.featured-business {
+	margin-top: -6px;
+}
+
+.search-locations form input {
+	float: right;
+	margin-top: 12px;
+}
+
+.search-locations input {
+	line-height: 39px;
+}

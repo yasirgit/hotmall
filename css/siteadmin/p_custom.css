@@ -1,0 +1,118 @@
+div.form .errorMessage
+{
+	display: block;
+	padding-left: 20px;
+}
+
+div.form label
+{
+	display: block;
+	padding-right: 30px;
+	color: #222222;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 150%;
+}
+
+#login-content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 350px;
+    
+    padding: 10px;
+}
+
+#page-wrapper #main-wrapper .title {
+    margin: 0 0 0px;
+}
+
+p.hint {
+	padding: 0px;
+	margin: 0px;
+}
+
+input, textarea, select, file {
+	background-color: #F9F9F9 !important;
+	border: 1px solid #DDDDDD;
+	 font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+    font-size: 14px;
+}
+
+input.button {
+	padding: 5px;
+}
+ 
+table.coupons {
+	width: 100%;
+}
+
+a.listingAdd {
+	color: blue;
+	text-decoration: underline;
+	cursor: hand;	
+}
+
+a.listingDelete {
+	margin-right: 20px;
+	color: blue;
+	text-decoration: underline;
+	cursor: hand;	
+}
+
+
+.grid-view table.items th {
+	color:#616161;
+    background-color: #E6E6E6;
+    background-image: none !important;
+    font-size: 14px;
+    text-align: left;
+    padding: 10px 6px;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+.grid-view table.items th a {
+    color: #616161;
+    font-weight: bold;
+    text-decoration: none;
+}
+.grid-view table.items tr.odd {
+     background-color: #F5F5F5;
+}
+.grid-view table.items tr.even {
+     background-color: #ffffff;
+}
+.grid-view table.items tr:hover {
+     background-color: #FFFFCF;
+}
+.grid-view table.items th, .grid-view table.items td {
+    border: 1px solid white;
+    font-size: 12px;
+    padding: 7px;
+    border-bottom: 1px solid #DEDEDE;
+    border-right: 1px solid #DEDEDE;
+    border-left: 1px solid #DEDEDE;
+	border-top: 1px solid #DEDEDE;
+	cursor:pointer;
+}
+
+.form-header {
+    background: url("images/ui-bg_highlight-soft_50_dddddd_1x100.png") repeat-x scroll 50% 50% #DDDDDD;
+    border: 1px solid #DDDDDD;
+    color: #444444;
+    text-transform: uppercase;
+	font-size: 0.9em;
+    font-weight: bold;
+    margin: 0.4em;
+    padding: 7px;    
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+.statsgrid td {
+	font-size: 12px;
+	text-align: center;
+}
+
+.from-to input {
+    height: 20px;
+}

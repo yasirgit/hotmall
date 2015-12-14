@@ -1,0 +1,36 @@
+# use glob syntax.
+syntax: glob
+application/config/database.php
+protected/config/db.php
+protected/config/main.php
+protected/runtime/application.log
+error_log
+.idea
+*.elc
+*.pyc
+*~
+issues
+error_log
+.svn
+.DS_Store
+desktop.ini
+nbproject
+**cache/
+**.~$lock
+.ht**
+hgweb*
+hgusers
+thumb.db
+Thumbs.db
+**formmail.txt
+yii.tgz
+yii.tar.gz
+assets/**
+
+# switch to regexp syntax.
+syntax: regexp
+^\.pc/
+^issues$
+/issues/.*$
+
+

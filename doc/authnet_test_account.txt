@@ -1,0 +1,9 @@
+u: promo123
+p: Promocast123
+e: promocast123@gmail.com
+
+API Login ID: 9Bfst8D8wJ
+Transaction Key: 5gSa927Cm94qB5xY
+test cc: 4111111111111111
+
+test subscription id: 1229845

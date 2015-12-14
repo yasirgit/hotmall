@@ -1,0 +1,1 @@
+<h1>You have no rights to see this object!</h1>

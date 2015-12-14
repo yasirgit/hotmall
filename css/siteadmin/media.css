@@ -1,0 +1,99 @@
+/* CSS Document */
+
+@media (max-width: 799px) {
+	    #page-wrapper #sidebar,
+		#page-wrapper #main-content {
+			 width: 99%; 
+			 float: none;
+			 clear: both;
+		}
+		
+	    #page-wrapper #sidebar {
+			margin-left: 10px;
+			padding: 0px;
+			width: 97%;
+			border-left: none;
+		}
+		
+		#page-wrapper #main-content .three-column .column {
+			width: 100%;
+			clear: both;
+		}
+		
+		#dialog {
+			width: 98%;	
+		}
+		
+		#main-wrapper #main-content	 .reports .report-box {
+			width: 45%;
+			margin: auto;
+			margin-bottom: 12px;
+			margin-right: 5%;
+		}
+		
+		
+		#main-content .select-menu {
+			width: 45%;
+		}
+		
+		#main-content .select-menu select,
+		#main-content .select-menu input {
+			width: 100%;
+		}
+}
+
+@media (max-width: 480px) {
+		#page-wrapper #main-content .two-column .column {
+			width: 100%;
+			clear: both;
+		}
+		
+		#header #top-menu {
+			visibility: hidden;
+		}
+		
+		#header ul#navigation.sf-navbar li {
+			display: block;
+			clear: both;
+			border: none;
+		}
+		
+		#header ul#navigation.sf-navbar li a {
+			border: none;
+		}
+		
+		#header .button {
+			width: 100%;
+			clear: both;
+			padding-top: 8px;
+			padding-bottom: 30px;
+		}
+		
+		#header .button a {
+			width: 50%;
+		}
+		
+		#page-wrapper #sidebar {
+			width: 97%;
+		}
+		
+		#main-wrapper #main-content	 .reports .report-box {
+			float: none;
+			width: 75%;
+			margin: auto;
+			margin-bottom: 12px;
+		}
+		
+		#main-content .select-menu {
+			width: 100%;
+		}
+}
+
+@media (max-width: 420px)  {		
+		#main-wrapper #main-content	 .reports .report-box {
+			float: none;
+			width: 95%;
+			margin: auto;
+			margin-bottom: 12px;
+		}
+}

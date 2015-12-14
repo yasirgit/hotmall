@@ -1,0 +1,74 @@
+.search-locations input,
+.search-locations button {
+	float: left !important;
+	line-height: 39px;
+}
+
+.footer-menu {
+	padding-top: 0px;
+}
+
+.featured-business {
+	margin-top: 0px;
+}
+
+ul li {
+	list-style: none;
+}
+.featured-business-aside span:nth-child(1) {
+	width: 288px;
+	height: 56px;
+	background-image: url(../images/business-spotlight-heading.png);
+	background-repeat: no-repeat;
+	display: block;
+}
+
+.featured-business-aside .flexslider span {
+	background-image: none;
+	margin-left: -260px;
+}
+
+.featured-business-aside .flexslider .slides {
+	margin-bottom: -30px;
+}
+
+.featured-business-aside .featured-business-aside .flex-control-nav {
+	margin-bottom: 12px;
+}
+
+.heading-title a:nth-child(1) {
+	float: left;
+}
+
+#coupon-wrapper .info .share {
+	margin-bottom: -157px;
+}
+
+#coupon-wrapper .info .coupon-description {
+	margin-top: -130px;
+	margin-bottom: 0px;
+}
+
+#coupon-wrapper .info .coupon-code {
+	margin-top: 36px;
+}
+
+#coupon-wrapper .coupon .hours span {
+	border: 1px solid #ccc;
+}
+
+#main-content fieldset label input {
+	margin-top: -26px;
+}
+
+nav ul li a {
+	cursor: pointer;
+}
+
+nav ul li a .after {
+	float: left;
+}
+
+nav ul li a:hover {
+	background-position: bottom;
+}

@@ -1,0 +1,8 @@
+.coupon-listings a {
+	color: red;
+	text-decoration: none;
+}
+
+.flex-direction-nav li {
+    display: none;
+}

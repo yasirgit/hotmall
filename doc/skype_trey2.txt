@@ -1,0 +1,61 @@
+
+
+
+> 1. Who is managing (adding) Premium Ads? Is it Whitelabel admin or advertiser?
+> If it's advertiser then each premium ad should belong to an advertiser, there's no such relation now.
+
+1. Advertiser must purchase premium ads then can add it.   White label admin may add premuim ads up to the limit of ads per directory without purchase.
+and super admin may add unlimited premium ads without purchase.
+
+
+-------------------------
+
+
+> 2. How exactly the Categories, Locations and Listings should work for PremiumAds?
+> In siteadmin, user can choose only one or multiple category, location and listing per premium ad?
+> Is listing specification for premium ad only optional or mandatory?
+
+2. Advertisers can purchase additional locations and categories to display their premium ads.   White Label and Super Admin may add the premium ads to unlimited categories and locations.
+
+-------------------------
+
+3.  Premium Ads should be displayed only in the locations and categories they belong to, and if premium ad has listing specified, should it be displayed only in that listing and the categories and locations specified when adding.
+
+Should use multiple select box for the categories, locations, and listings, in the old front end there was no way to limit the locations categories and listings by purchase so I was forced to use single select box.
+
+
+-------------------------
+
+Advertiser
+------------------------
+3. new advertiser registration form should be in frontend or siteadmin? In the desing it is on both places. 
+I assume it should be onlyin siteadmin, because also login for advertiser is a part of siteadminCorrect
+[3:09:26 PM] Trey Brister: 4. how the plans should work? Can advertiser add new listings if he hasn't signed up to a plan?
+(I assume not)
+CORRECT
+So there should be a screen for choosing advertising plan, it is not yet in the design.
+CORRECT
+How should the payment for plans work? All the money for the plan should go to Whitelist admin?
+CORRECT
+[3:10:52 PM] Trey Brister: [1:11 PM] Mark Fric: 
+
+
+-------------------------
+
+Coupons Redeeming
+---------------------------
+5. How exactly coupons redeeming should work? Will there be such functionality?
+I saw that in the newest design there's no Redeem link and instead there is Activate link for customerafter activate then customer registration is forced after email is verified then customer may redeem the promotion
+http://mymallcoupons.com/docs/workflow.html
+[3:11:34 PM] Trey Brister: [1:11 PM] Mark Fric: 
+
+
+-------------------------
+
+
+6. What should be in New Offers and Ending soon in frontend? Are these dates related to coupons?
+(I assume that it should display listings with newest coupons or coupons that are close to expiration) 
+So listings without coupons will be not listed in these categories?CORRECT it is promotions, expiring and newest active promotions
+[3:12:27 PM] Trey Brister: [1:11 PM] Mark Fric: 
+
+webstandardcss@gmail.com  also I am webstandardcss on facebook, twitter, linkedin, and skype if you want to friend me

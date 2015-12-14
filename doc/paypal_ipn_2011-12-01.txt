@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------
+PHPSESSID = 91c1dd753c0729e91399000b07042d0c
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+txn_type = subscr_signup
+subscr_id = I-NNK5K33YR9WT
+last_name = User
+residence_country = US
+mc_currency = USD
+item_name = Plan Subscription
+business = pselle_1322728555_biz@gmail.com
+amount3 = 19.00
+recurring = 1
+address_street = 1 Main St
+verify_sign = ARzUsStaa8Bvec654w72bKPpIOk7ArLEe-8Y7cbIhG2jig-HtFxnPNla
+payer_status = verified
+test_ipn = 1
+payer_email = pbuyer_1322728483_per@gmail.com
+address_status = confirmed
+first_name = Test
+receiver_email = pselle_1322728555_biz@gmail.com
+address_country_code = US
+payer_id = NG6LB6XGH4DJ2
+address_city = San Jose
+reattempt = 1
+item_number = 2
+address_state = CA
+subscr_date = 07:49:54 Dec 01, 2011 PST
+address_zip = 95131
+charset = windows-1252
+notify_version = 3.4
+period3 = 30 D
+address_country = United States
+mc_amount3 = 19.00
+address_name = Test User
+ipn_track_id = iuezV.rzOHt.kE.s-6SKXg
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mc_gross = 19.00
+protection_eligibility = Eligible
+address_status = confirmed
+payer_id = NG6LB6XGH4DJ2
+address_street = 1 Main St
+payment_date = 07:49:59 Dec 01, 2011 PST
+payment_status = Completed
+charset = windows-1252
+address_zip = 95131
+first_name = Test
+mc_fee = 0.85
+address_country_code = US
+address_name = Test User
+notify_version = 3.4
+subscr_id = I-NNK5K33YR9WT
+payer_status = verified
+business = pselle_1322728555_biz@gmail.com
+address_country = United States
+address_city = San Jose
+verify_sign = A6SBpIykwnkPeyberObIryTPZBDoAWGirPUZbAh7MM-JpG8RHEsoNmXs
+payer_email = pbuyer_1322728483_per@gmail.com
+txn_id = 12T21558748126718
+payment_type = instant
+last_name = User
+address_state = CA
+receiver_email = pselle_1322728555_biz@gmail.com
+payment_fee = 0.85
+receiver_id = W8JR25BKMUYU4
+txn_type = subscr_payment
+item_name = Plan Subscription
+mc_currency = USD
+item_number = 2
+residence_country = US
+test_ipn = 1
+transaction_subject = Plan Subscription
+payment_gross = 19.00
+ipn_track_id = FbcLXjqdnGkMBSa7BQZH1g
+--------------------------------------------------------------------------
